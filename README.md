@@ -8,6 +8,8 @@ Welcome to our project repository!
 
 In this project, we will use large language models (LLMs) to develop an open and expandable infrastructure that will be able to link the literature and electronic health records (EHRs) for different tasks. This repository is dedicated to organizing and streamlining our work on datasets and techniques for leveraging LLMs. Our primary focus includes creating shared resources, providing accessible introductory materials, and deploying an LLM endpoint on Hugging Face for experimentation.
 
+Data available on [Google Drive](https://drive.google.com/drive/folders/1X_3I7cwj5IVDELm23JsNp5ck0hmK4JmQ?usp=drive_link) 
+
 ---
 
 ## Repository Structure
